@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'mephisto';
-    src: url('/css/fonts/mephisto-webfont.woff2') format('woff2'),
-         url('/css/fonts/mephisto-webfont.woff') format('woff');
+    src: url('/campaign/css/fonts/mephisto-webfont.woff2') format('woff2'),
+         url('/campaign/css/fonts/mephisto-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
